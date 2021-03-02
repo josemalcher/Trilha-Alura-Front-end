@@ -17,7 +17,7 @@ Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript!
 
 Capítulos                | Status
 ------------------------ | --------
-CURSO - HTML5 e CSS3 parte 1: A primeira página da Web | 
+[CURSO - HTML5 e CSS3 parte 1: A primeira página da Web](/CURSO-01-HTML5-e-CSS3-parte-1-A-primeira-pagina-da-Web) | :heavy_check_mark:
 SITE - Alura Live: como ser um bom dev front-end | 
 CURSO - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação | 
 POST - Guia de Unidades no CSS - Blog da Alura | 
