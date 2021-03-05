@@ -1,17 +1,17 @@
 # Trilha Front-end Alura
 
-https://cursos.alura.com.br/formacao-front-end
+[https://cursos.alura.com.br/formacao-front-end](https://cursos.alura.com.br/formacao-front-end)
 
 Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript!
 
 ## <a name="indice">Índice</a>
 
-1. [1.HTML & CSS](#parte1)     
-2. [2.JAVASCRIPT A LINGUAGEM DA WEB](#parte2)     
-3. [3.FRONT END UI](#parte3)     
-4. [4.SITES INTERATIVOS, ITEGRANDO O JAVASCRIPT AO NAVEGADOR](#parte4)     
----
+1. [1.HTML & CSS](#parte1)
+2. [2.JAVASCRIPT A LINGUAGEM DA WEB](#parte2)
+3. [3.FRONT END UI](#parte3)
+4. [4.SITES INTERATIVOS, ITEGRANDO O JAVASCRIPT AO NAVEGADOR](#parte4)
 
+---
 
 ## <a name="parte1">1 - 1.HTML & CSS</a>
 
@@ -19,7 +19,7 @@ Capítulos                | Status
 ------------------------ | --------
 [CURSO - HTML5 e CSS3 parte 1: A primeira página da Web](/CURSO-01-HTML5-e-CSS3-parte-1-A-primeira-pagina-da-Web) | :heavy_check_mark:
 [SITE - Alura Live: como ser um bom dev front-end](https://www.facebook.com/AluraCursosOnline/videos/1509407892507116/) | :heavy_check_mark:
-CURSO - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação | 
+[CURSO - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](/Trilha-Alura-Front-end\CURSO-02-HTML5-e-CSS3-parte-2-Posicionamento-listas-e-navegacao) | :heavy_check_mark:
 POST - Guia de Unidades no CSS - Blog da Alura | 
 CURSO - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas | 
 CURSO - HTML5 e CSS3 parte 4: Avançando no CSS | 
@@ -31,27 +31,25 @@ CURSO - Acessibilidade web parte 1: tornando seu front-end inclusivo |
 
 ---
 
-
 ## <a name="parte2">2 - 2.JAVASCRIPT A LINGUAGEM DA WEB</a>
 
 Capítulos                | Status
 ------------------------ | --------
-CURSO - JavaScript: primeiros passos com a linguagem    | 
-POST - JavaScript replace: manipulando Strings e regex  | 
-POST - Tagged Template Literals | 
-SITE - Alura Live: JavaScript | 
-ALURA+ Classes e funções em JavaScript                           | 
-CURSO - JavaScript: Programando a Orientação a Objetos           |         
-ALURA+ JS Linter                                                 | 
-PODCAST - O Reino encantado do JavaScript – Hipsters #38         | 
-CURSO - JavaScript: Interfaces e Herança em Orientação a Objetos | 
-POST - Conhecendo Arrow Functions  | 
-POST - Preenchendo formulário HTML automaticamente com AJAX | 
+CURSO - JavaScript: primeiros passos com a linguagem    |
+POST - JavaScript replace: manipulando Strings e regex  |
+POST - Tagged Template Literals |
+SITE - Alura Live: JavaScript |
+ALURA+ Classes e funções em JavaScript                           |
+CURSO - JavaScript: Programando a Orientação a Objetos           |
+ALURA+ JS Linter                                                 |
+PODCAST - O Reino encantado do JavaScript – Hipsters #38         |
+CURSO - JavaScript: Interfaces e Herança em Orientação a Objetos |
+POST - Conhecendo Arrow Functions  |
+POST - Preenchendo formulário HTML automaticamente com AJAX |
 
 [Voltar ao Índice](#indice)
 
 ---
-
 
 ## <a name="parte3">3 - 3.FRONT END UI</a>
 
@@ -72,12 +70,9 @@ CURSO - Flexbox: Posicione elementos na tela |
 CURSO - CSS Grid: Simplificando layouts |  
 POST - Criando Layouts com CSS Grid Layout (opcional) |  
 
-
-
 [Voltar ao Índice](#indice)
 
 ---
-
 
 ## <a name="parte4">4 - 4.SITES INTERATIVOS, ITEGRANDO O JAVASCRIPT AO NAVEGADOR</a>
 
@@ -96,4 +91,3 @@ POST - Trabalhando com datas em JavaScript | Alura Cursos Online |
 [Voltar ao Índice](#indice)
 
 ---
-
