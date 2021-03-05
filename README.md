@@ -19,9 +19,9 @@ Capítulos                | Status
 ------------------------ | --------
 [CURSO - HTML5 e CSS3 parte 1: A primeira página da Web](/CURSO-01-HTML5-e-CSS3-parte-1-A-primeira-pagina-da-Web) | :heavy_check_mark:
 [SITE - Alura Live: como ser um bom dev front-end](https://www.facebook.com/AluraCursosOnline/videos/1509407892507116/) | :heavy_check_mark:
-[CURSO - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](/Trilha-Alura-Front-end\CURSO-02-HTML5-e-CSS3-parte-2-Posicionamento-listas-e-navegacao) | :heavy_check_mark:
-POST - Guia de Unidades no CSS - Blog da Alura | 
-CURSO - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas | 
+[CURSO - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](/CURSO-02-HTML5-e-CSS3-parte-2-Posicionamento-listas-e-navegacao) | :heavy_check_mark:
+[POST - Guia de Unidades no CSS - Blog da Alura](https://www.alura.com.br/artigos/guia-de-unidades-no-css) | :heavy_check_mark: 
+CURSO - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas |
 CURSO - HTML5 e CSS3 parte 4: Avançando no CSS | 
 PODCAST - CSS: Cansei de Ser Simples – Hipsters #09 | 
 SITE - Bootstrap e frameworks CSS (opcional) | 
